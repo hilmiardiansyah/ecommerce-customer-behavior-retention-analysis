@@ -131,7 +131,7 @@ Summarizes the main analytical findings and business recommendations related to 
 
 ### Download Power BI Dashboard
 
-[Download Olist E-Commerce Power BI Dashboard (.pbix)](https://github.com/hilmardiansyah/ecommerce-customer-behavior-retention-analysis/releases/latest)
+[Download Olist E-Commerce Power BI Dashboard (.pbix)](https://github.com/hilmiardiansyah/ecommerce-customer-behavior-retention-analysis/releases/tag/v1.0.0)
 
 ## 7. Key Findings
 
