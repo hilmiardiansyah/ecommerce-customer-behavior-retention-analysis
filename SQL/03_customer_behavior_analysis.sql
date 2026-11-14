@@ -1,4 +1,3 @@
-
 -- =====================================================
 -- PROJECT: E-COMMERCE CUSTOMER BEHAVIOR & RETENTION ANALYSIS
 -- DATASET: Brazilian E-Commerce Public Dataset by Olist
